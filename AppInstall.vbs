@@ -1,4 +1,3 @@
-
 'AppInstall.vbs - installs application with cmdline switches. Intelligently runs updated installers on network-share.
 
 'Copyright (C) 2013  Brenton Keegan
@@ -17,6 +16,7 @@
 'along with this program; if not, write to the Free Software
 'Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
+'REQUIRES: TruncatebyCharacter (available in this repository)
 
 
 Option Explicit
