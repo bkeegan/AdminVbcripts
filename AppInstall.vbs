@@ -17,6 +17,8 @@
 'Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 'REQUIRES: TruncatebyCharacter (available in this repository)
+'REQUIRES: WriteEventLogEntry (available in this repository)
+'REQUIRES: CheckforRunningProcess (available in this repository)
 
 
 Option Explicit
